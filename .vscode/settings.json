@@ -1,0 +1,23 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/shashwat/ws_sensor_combined/install/px4_ros_com/local/lib/python3.10/dist-packages",
+        "/home/shashwat/ws_sensor_combined/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/shashwat/ros2_ws/install/anscer_interface/local/lib/python3.10/dist-packages",
+        "/home/shashwat/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/shashwat/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/shashwat/ws_sensor_combined/install/px4_ros_com/local/lib/python3.10/dist-packages",
+        "/home/shashwat/ws_sensor_combined/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/shashwat/ros2_ws/install/anscer_interface/local/lib/python3.10/dist-packages",
+        "/home/shashwat/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/shashwat/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "files.associations": {
+        "chrono": "cpp"
+    }
+}

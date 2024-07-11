@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/shashwat/ws_sensor_combined/install/px4_ros_com/include/**",
+        "/home/shashwat/ws_sensor_combined/install/px4_msgs/include/**",
+        "/home/shashwat/ros2_ws/install/anscer_interface/include/**",
+        "/home/shashwat/turtlebot3_ws/install/turtlebot3_gazebo/include/**",
+        "/home/shashwat/turtlebot3_ws/install/turtlebot3_fake_node/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/shashwat/ros2_ws/src/my_robot_control/include/**",
+        "/home/shashwat/ros2_ws/src/my_robot_trajectory_publisher/include/**",
+        "/home/shashwat/ros2_ws/src/px4_visualize/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
