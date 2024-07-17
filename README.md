@@ -1,5 +1,5 @@
 
-# Mavlink-Pose-Visualizer
+# PX4 Posistion Visualizer
 
 This project utilizes PX4 Cube Orange along with ROS2. Communication between ROS2 and PX4 uses middleware that implements the XRCE-DDS protocol. This project demonstrates visualizing the Cube's orientation on RViz. It also eliminates the need for Mavlink which was required for ROS1.
 
